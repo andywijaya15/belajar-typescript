@@ -1,0 +1,20 @@
+{
+  "name": "belajar-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andywijaya15/belajar-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andywijaya15/belajar-typescript/issues"
+  },
+  "homepage": "https://github.com/andywijaya15/belajar-typescript#readme"
+}
